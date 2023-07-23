@@ -1,0 +1,55 @@
+html {
+    background-color: #ffd289
+}
+
+img {
+    height: 100%;
+    width: 100%;   
+    object-fit: none;
+    position: relative;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+
+}
+
+#odin-logo {
+    object-position: top center;
+}
+
+.H1 {
+    text-align: center;
+    color: #ffffff;
+    position: absolute;
+    top: 40%;
+    left: 43%;
+}
+
+.text {
+    color: #ffffff;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+ 
+.steak {
+    text-align:center;
+    position: absolute;
+    top: 58%;
+    left: 43%;
+}
+
+.mac {
+    text-align: center;
+    position: absolute;
+    top: 68%;
+    left: 43%;
+}
+
+.bread {
+    text-align: center;
+    position: absolute;
+    top: 78%;
+    left: 43%;
+}
