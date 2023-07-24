@@ -1,0 +1,24 @@
+html {
+    background-color: #ffd289
+}
+
+.text {
+    color: #ffffff;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#odin-logo {
+    height: 10%;
+    width: 10%;
+    object-fit: scale-down;
+    position: relative;
+
+}
+
+#mac {
+    height: 50%;
+    width: 50%;
+    object-fit: none;
+    position: relative;
+}
